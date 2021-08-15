@@ -1,0 +1,11 @@
+gunicorn
+click==6.7
+Flask==1.0.2
+itsdangerous==0.24
+Jinja2==2.10
+Werkzeug==0.14.1
+line-bot-sdk
+azure-cognitiveservices-vision-computervision
+azure-cognitiveservices-vision-face
+imgur-python
+Pillow
