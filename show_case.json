@@ -6,7 +6,7 @@
     "contents": [
       {
         "type": "image",
-        "url": "https://scdn.line-apps.com/n/channel_devcenter/img/flexsnapshot/clip/clip3.jpg",
+        "url": "https://marketing-prd.s3.amazonaws.com/event/recruit/images/banner_01.png",
         "size": "full",
         "aspectMode": "cover",
         "aspectRatio": "1:1",
@@ -43,7 +43,7 @@
                 "contents": [
                   {
                     "type": "text",
-                    "text": "Brown Grand Hotel",
+                    "text": "Money is power",
                     "size": "xl",
                     "color": "#ffffff"
                   }
